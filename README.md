@@ -12,7 +12,7 @@
 
 ![Mikael-FR-OL GitHub stats ](https://github-readme-stats.vercel.app/api?username=Mikael-FR-OL&show_icons=true&theme=radical)
  
-## Knowledge
+## Knowledge And Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-FR-OL&layout=compact&langs_count=7&theme=dark"/>
 </div>
  </div>
