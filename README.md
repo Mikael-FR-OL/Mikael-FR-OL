@@ -1,9 +1,17 @@
 <!--
 **Mikael-FR-OL/Mikael-FR-OL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### <h1>Nice to see you here, welcome to my GitHub</h1>
+### <h1>👋🏻 Olá! Que bom ver você por aqui.</h1>
 
-📫 Mikael09.oliveira21@gmail.com
+###🎉 Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará meus principais projetos na área de programação assim como um breve resumo da minha trajetória.###
+
+###👾 Sobre mim: ###
+
+🌎 Eu me chamo Mikael Ferreira, sou um profissional da área de tecnologia com habilidades em Suporte, Desenvolvimento e aspirante a Cyber security.
+
+📚 Sou formado em Analise e desenvolvimento de sistema, e atualmente faço Pós em Cyber Segurança Ofensiva pela Academia Inovadora de TI de São Paulo (ACADI-TI) e por fora sou autoditada.
+
+🚀 Meu objetivo é poder passar e ensinar o proximo o conhecimento que aprendo constantemente.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29FF09&background=FFFFFF00&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+name+is+Mikael+Ferreira;I'm+21+years+old;I'm+a+Junior+Back-End+Developer;I'm+from+Brazil;Be+welcome!!+:%29)](https://git.io/typing-svg)
 <div align="center"><br>
@@ -12,10 +20,7 @@
 
 ![Mikael-FR-OL GitHub stats ](https://github-readme-stats.vercel.app/api?username=Mikael-FR-OL&show_icons=true&theme=radical)
  
-## Knowledge And Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-FR-OL&layout=compact&langs_count=7&theme=dark"/>
-</div>
- </div>
+## 
 <div align="center">
 <div style="display: inline_block"></br>
     <img text-align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
