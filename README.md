@@ -3,7 +3,7 @@
 -->
 ### <h1>👋🏻 Olá! Que bom ver você por aqui.</h1>
 
-### <h2>🎉 Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará meus principais projetos na área de programação assim como um breve resumo da minha trajetória.</h2>###
+🎉 Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará a minha breve Historia e meus projetos atuais.
 
 ###<h2>👾 Sobre mim: </h2>###
 
