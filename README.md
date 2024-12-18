@@ -11,16 +11,15 @@
 
 📚 Sou formado em Analise e desenvolvimento de sistema, e atualmente faço Pós em Cyber Segurança Ofensiva pela Academia Inovadora de TI de São Paulo (ACADI-TI) e por fora sou autoditada.
 
-🚀 Meu objetivo é poder passar e ensinar o proximo o conhecimento que aprendo constantemente.
+🚀 Meu objetivo é poder passar o conhecimento que aprendo constantemente para o proximo.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=29FF09&background=FFFFFF00&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+name+is+Mikael+Ferreira;I'm+21+years+old;I'm+a+Junior+Back-End+Developer;I'm+from+Brazil;Be+welcome!!+:%29)](https://git.io/typing-svg)
 <div align="center"><br>
   
  <div align="left">
 
 ![Mikael-FR-OL GitHub stats ](https://github-readme-stats.vercel.app/api?username=Mikael-FR-OL&show_icons=true&theme=radical)
  
-## 
+## <h3> Noções atuais: </h3>
 <div align="center">
 <div style="display: inline_block"></br>
     <img text-align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; -->
 
-### Studying in this moment:
+### Estudando no momento:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
