@@ -16,8 +16,6 @@
 <div align="center"><br>
   
  <div align="left">
-
-![Mikael-FR-OL GitHub stats ](https://github-readme-stats.vercel.app/api?username=Mikael-FR-OL&show_icons=true&theme=radical)
  
 ## <h3> Noções atuais: </h3>
 <div align="center">
