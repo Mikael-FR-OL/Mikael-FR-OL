@@ -5,7 +5,7 @@
 
 🎉 Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará a minha breve Historia e meus projetos atuais.
 
-###<h2>👾 Sobre mim: </h2>###
+### <h2>👾 Sobre mim: </h2> 
 
 🌎 Eu me chamo Mikael Ferreira, sou um profissional da área de tecnologia com habilidades em Suporte, Desenvolvimento e aspirante a Cyber security.
 
